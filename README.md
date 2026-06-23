@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # brain tumor detection using python and sklearn
 
 <!-- wp:image {"id":21,"sizeSlug":"large","linkDestination":"none","style":{"color":[]}} -->
@@ -6,7 +6,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>Hii Readers, In this post we are going to learn about brain tumor detection using sklearn and python.</p>
+<
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
